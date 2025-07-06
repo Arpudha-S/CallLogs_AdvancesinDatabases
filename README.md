@@ -8,5 +8,3 @@ The data warehouse is designed with key dimensions such as customers, plans, dat
 ## Prerequisite
 MySQL\
 Python
-
-## Front End
